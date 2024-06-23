@@ -1,0 +1,38 @@
+body{
+    background-color: slategrey;
+}
+
+
+
+.most{
+    background-color: slategrey;
+    color: red;
+    font-size: 40px;
+
+}
+.canjera{
+    background-color: blue;
+
+}
+ 
+.pilau{
+    background-color: gray;
+
+}
+
+.avoid{
+    background-color:palevioletred;
+}
+
+.white{
+    background-color: pink;
+    border: 50px;
+    padding-top: 50;
+    padding-bottom: 50;
+}
+
+.green{
+    background-color: aqua;
+}
+    
+
